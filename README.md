@@ -125,4 +125,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Anastasia Lvovna Rizzo**  
 ar22614@essex.ac.uk  
-[University of Essex]
+University of Essex
